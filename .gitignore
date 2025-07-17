@@ -1,0 +1,8 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+Documentaion.docx
+main.zip
+terraform.tfstate.d/
+.terraform.lock.hcl
